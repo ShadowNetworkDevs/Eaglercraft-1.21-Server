@@ -1,0 +1,159 @@
+21:41:05 [INFO] Using mbed TLS based native cipher.
+21:41:05 [INFO] Using zlib based native compressor.
+21:41:05 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:0d153fe:1914
+21:41:05 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:41:05 [INFO] Epoll is working, utilising it!
+21:41:05 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:41:05 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:41:05 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:41:05 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:41:05 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:41:05 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:41:05 [INFO] Attempting to update plugin from null to ModuleVersion(build=1914, git=0d153fe)
+21:41:05 [INFO] Attempting to Jenkins download module cmd_alert v1914
+21:41:06 [INFO] Download complete
+21:41:06 [INFO] Attempting to update plugin from null to ModuleVersion(build=1914, git=0d153fe)
+21:41:06 [INFO] Attempting to Jenkins download module cmd_find v1914
+21:41:06 [INFO] Download complete
+21:41:06 [INFO] Attempting to update plugin from null to ModuleVersion(build=1914, git=0d153fe)
+21:41:06 [INFO] Attempting to Jenkins download module cmd_list v1914
+21:41:06 [INFO] Download complete
+21:41:06 [INFO] Attempting to update plugin from null to ModuleVersion(build=1914, git=0d153fe)
+21:41:06 [INFO] Attempting to Jenkins download module cmd_send v1914
+21:41:07 [INFO] Download complete
+21:41:07 [INFO] Attempting to update plugin from null to ModuleVersion(build=1914, git=0d153fe)
+21:41:07 [INFO] Attempting to Jenkins download module cmd_server v1914
+21:41:07 [INFO] Download complete
+21:41:07 [INFO] Attempting to update plugin from null to ModuleVersion(build=1914, git=0d153fe)
+21:41:07 [INFO] Attempting to Jenkins download module reconnect_yaml v1914
+21:41:07 [INFO] Download complete
+21:41:07 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [WARNING] Forced host server pvp is not defined
+21:41:07 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:41:07 [INFO] Listening on /0.0.0.0:25577
+21:41:45 [INFO] Closing listener [id: 0x1c16fa71, L:/[0:0:0:0:0:0:0:0]:25577]
+21:41:45 [INFO] Closing pending connections
+21:41:45 [INFO] Disconnecting 0 connections
+21:41:46 [INFO] Saving reconnect locations
+21:41:46 [INFO] Disabling plugins
+21:41:46 [INFO] Closing IO threads
+21:42:28 [INFO] Using mbed TLS based native cipher.
+21:42:28 [INFO] Using zlib based native compressor.
+21:42:28 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:0d153fe:1914
+21:42:28 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:42:28 [INFO] Epoll is working, utilising it!
+21:42:28 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:42:28 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:42:28 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:42:28 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:42:28 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:42:28 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:42:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:42:28 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:42:28 [WARNING] :>  apart from the versions listed below:
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+21:42:28 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+21:42:28 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:42:28 [WARNING] :>  
+21:42:28 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:42:28 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:42:28 [WARNING] Forced host server pvp is not defined
+21:42:28 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:42:28 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:42:28 [INFO] [EaglercraftXBungee] Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
+21:42:29 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:42:29 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_auths.db
+21:42:29 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:42:29 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:42:29 [INFO] Listening on /0.0.0.0:25577
+21:43:20 [INFO] Closing listener [id: 0x1a6e8023, L:/[0:0:0:0:0:0:0:0]:25577]
+21:43:20 [INFO] Closing pending connections
+21:43:20 [INFO] Disconnecting 0 connections
+21:43:20 [INFO] Saving reconnect locations
+21:43:20 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+21:43:20 [INFO] Disabling plugins
+21:43:20 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+21:43:20 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_auths.db'
+21:43:20 [INFO] Closing IO threads
+21:43:55 [INFO] Using mbed TLS based native cipher.
+21:43:55 [INFO] Using zlib based native compressor.
+21:43:55 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:0d153fe:1914
+21:43:55 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:43:55 [INFO] Epoll is working, utilising it!
+21:43:55 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:43:55 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:43:55 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:43:55 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:43:55 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:43:55 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:43:55 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:43:55 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:43:55 [WARNING] :>  apart from the versions listed below:
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+21:43:55 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+21:43:55 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:43:55 [WARNING] :>  
+21:43:55 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:43:55 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:43:55 [WARNING] Forced host server pvp is not defined
+21:43:55 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:0d153fe:1914 by SpigotMC
+21:43:55 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:43:55 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:43:55 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:43:55 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:43:55 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:43:55 [INFO] Listening on /0.0.0.0:25577
